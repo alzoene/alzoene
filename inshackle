@@ -1,0 +1,9 @@
+$ apt upgrade
+$ apt update
+$ apt install git curl openssh openssl openssl-tool -y
+
+Install app Instagram follower
+
+$ git clone https://github.com/thelinuxchoice/inshackle.git
+$ cd inshackle
+$ bash inshackle.sh
